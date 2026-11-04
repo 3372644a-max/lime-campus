@@ -2,6 +2,20 @@
 
 一个面向学生日常的校园信息入口，把课程表、成绩、考勤、社团、通知集中在同一个页面里。视觉上刻意避开常见的「AI 风」——不用紫蓝渐变、玻璃拟态、发光边框和大圆角白卡片，而是做成日系校园手账的样子：奶油纸底、墨线描边、硬投影、彩色索引贴导航。
 
+## 界面预览
+
+| 总览 | 课程表 |
+|---|---|
+| ![总览](docs/screenshots/overview.png) | ![课程表](docs/screenshots/schedule.png) |
+| **成绩单** | **考勤** |
+| ![成绩单](docs/screenshots/grades.png) | ![考勤](docs/screenshots/attendance.png) |
+| **社团** | **通知** |
+| ![社团](docs/screenshots/clubs.png) | ![通知](docs/screenshots/notices.png) |
+| **我的** | |
+| ![我的](docs/screenshots/profile.png) | |
+
+更多截图见 [`docs/screenshots/`](docs/screenshots/)，在线体验：https://3372644a-max.github.io/lime-campus/
+
 ## 运行方式
 
 纯静态页面，零依赖、无需构建、不用装任何环境：
